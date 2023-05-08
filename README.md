@@ -18,21 +18,21 @@ Quality Control Tester: Everyone </br>
 Project breakdown </br>
 Week 1-2 familiarized with the system (Phase 1) 
 Subtasks based on this 
--Planning of role breakdown and admin matters: Everyone
--Looking through senior reports: Everyone
--Playing around with the SCAMFI Dashboard: Yu Cheng / Ryan
--Looking through senior codes on github: Yu Cheng / Ryan 
--Playing around with Arkime Software: Jun Hao / Alex
--Reading up on Arkime API: Jun Hao / Alex
--Breaking down on tasks to do and gantt chart based on said tasks: Jun Hao 
--Creation of the ITP Project Plan 2023 to submit (21st may): Everyone  
+- Planning of role breakdown and admin matters: Everyone
+- Looking through senior reports: Everyone
+- Playing around with the SCAMFI Dashboard: Yu Cheng / Ryan
+- Looking through senior codes on github: Yu Cheng / Ryan 
+- Playing around with Arkime Software: Jun Hao / Alex
+- Reading up on Arkime API: Jun Hao / Alex
+- Breaking down on tasks to do and gantt chart based on said tasks: Jun Hao 
+- Creation of the ITP Project Plan 2023 to submit (21st may): Everyone  
 
 Week 3-4 Proposed Design for the exported graph and dashboard improvement (Phase 2) 
 Subtasks based on this
--2 people go create proposed design of the exported graph (1 person do for the arkime graph on the dashboard and another do for the dashboard itself to launch the graph, icons) : Yu Cheng / Ryan
--2 people will list the potential APIS to be called inside the wireframe (for proposal purposes) : Jun Hao / Alex
--2 people play around with the potential API : Jun Hao / Alex
--2 people revise on the proposed design (based on prof / client feedback) : Yu Cheng / Ryan
+- 2 people go create proposed design of the exported graph (1 person do for the arkime graph on the dashboard and another do for the dashboard itself to launch the graph, icons) : Yu Cheng / Ryan
+- 2 people will list the potential APIS to be called inside the wireframe (for proposal purposes) : Jun Hao / Alex
+- 2 people play around with the potential API : Jun Hao / Alex
+- 2 people revise on the proposed design (based on prof / client feedback) : Yu Cheng / Ryan
 
 Week 5-7 Implement Design for the exported graph and dashboard (C.R.U.D) (Phase 3 implementation)
 Subtasks based on this 
@@ -47,13 +47,13 @@ Subtasks based on this
 
 Week 8-10 Testing and debugging phase (Phase 4)
 - Blackbox testing based on Create : Jun Hao 
-    -Debug any issues surfaced, if got issues make a new blackbox testing
+    - Debug any issues surfaced, if got issues make a new blackbox testing
 - Blackbox testing based on Read : Yu Cheng 
-	-Debug any issues surfaced, if got issues make a new blackbox testing
+	- Debug any issues surfaced, if got issues make a new blackbox testing
 - Blackbox testing based on Update: Ryan
-	-Debug any issues surfaced, if got issues make a new blackbox testing
+	- Debug any issues surfaced, if got issues make a new blackbox testing
 - Blackbox testing based on Delete: Alex
-	-Debug any issues surfaced, if got issues make a new blackbox testing
+	- Debug any issues surfaced, if got issues make a new blackbox testing
 
 
 Week 11 Final Test and report writing (Phase 5/6) 
@@ -67,7 +67,7 @@ Week 12 Report / Poster (Phase 5/6)
 - Report Writing based on the citeria mentioned in LMS(Continue from phase 5): Everyone
 - Poster Creation: Everyone 
 
-Date to meet prof:
-Either Weds or Thurs (Every 2 weeks) 
+Date to meet prof: </br> 
+Every even week (2,4,6) Wednesday 330pm onwards (Subjected to changes) </br> 
 
 
