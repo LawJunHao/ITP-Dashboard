@@ -1,15 +1,21 @@
 # ITP-Dashboard
-IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard
+IS_Team_13 IS_Project_12 Security Exploits Graph Modelling Dashboard </br>
+</br>
+People Full name / Github Name / Email </br>
+SIM YU CHENG / simyucheng / 2102520@sit.singaporetech.edu.sg </br>
+LAW JUN HAO / LawJunHao / 2101081@sit.singaporetech.edu.sg </br>
+RYAN SUAN ZHAN HUI / xllRyan / 2100706@sit.singaporetech.edu.sg </br>
+ANG WEE YI ALEX / RexxarAng / 2102852@sit.singaporetech.edu.sg </br>
+</br>
+Roles for this project: </br>
+Project Manager / Time keeper (Email, Contact, Keep track of progress, make sure we are on time): Jun Hao </br>
+Front End Coder: Yu Cheng </br>
+Front End Coder (Side) : Ryan </br>
+Back End Coder: Alex </br>
+Back End Coder (Side) : Jun Hao </br>
+Quality Control Tester: Everyone </br>
 
-Roles for this project:
-Project Manager / Time keeper (Email, Contact, Keep track of progress, make sure we are on time): Jun Hao 
-Front End Coder: Yu Cheng 
-Front End Coder (Side) : Ryan
-Back End Coder: Alex
-Back End Coder (Side) : Jun Hao
-Quality Control Tester: Everyone 
-
-Project breakdown
+Project breakdown </br>
 Week 1-2 familiarized with the system (Phase 1) 
 Subtasks based on this 
 -Planning of role breakdown and admin matters: Everyone
@@ -41,7 +47,7 @@ Subtasks based on this
 
 Week 8-10 Testing and debugging phase (Phase 4)
 - Blackbox testing based on Create : Jun Hao 
-	-Debug any issues surfaced, if got issues make a new blackbox testing
+    -Debug any issues surfaced, if got issues make a new blackbox testing
 - Blackbox testing based on Read : Yu Cheng 
 	-Debug any issues surfaced, if got issues make a new blackbox testing
 - Blackbox testing based on Update: Ryan
